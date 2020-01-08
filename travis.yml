@@ -1,0 +1,3 @@
+notifications:
+  slack: techholding:BYt8055ls1AXzi6bD96foAoT
+    on_success: always
