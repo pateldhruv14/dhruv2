@@ -1,3 +1,4 @@
 notifications:
   slack: techholding:BYt8055ls1AXzi6bD96foAoT
+    if: branch = master
     on_success: always
